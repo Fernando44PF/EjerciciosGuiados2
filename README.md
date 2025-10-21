@@ -1,5 +1,7 @@
 # EjerciciosGuiados2
-###g
+##Unidad 2
+##Tema: Listas y Pilas en Java
+##Alumno: Fernando Miguel Olvera juárez
 
 | Trabajo | Evidencias | Código |
 |:-----------|:-----------:|-----------:|
