@@ -5,8 +5,9 @@
 package pilasar;
 
 /**
- *
- * @author Taylor
+  *@author Fernando Miguel Olvera Juárez
+ * @version 1.0
+ * @since 2025-10-20
  */
 public interface pilas <T>{
     
