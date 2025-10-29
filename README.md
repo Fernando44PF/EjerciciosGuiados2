@@ -47,6 +47,14 @@
 |:-----------|:-----------:|-----------:|
 | Bubble Sort | <img src="https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Captura%20de%20pantalla%202025-10-28%20143843.png?raw=true" width="150"> | [Trabajo Visualgo.net](https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Ordenamiento%20por%20intercambio.pdf) |
 
+---
+
+### Tabla 5
+
+| Trabajo | Evidencias | Código |
+|:-----------|:-----------:|-----------:|
+| Bubble Sort | <img src="https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Captura%20de%20pantalla%202025-10-28%20143843.png?raw=true" width="150"> | [Trabajo Visualgo.net](https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Ordenamiento%20por%20intercambio.pdf) |
+
 
 
 
