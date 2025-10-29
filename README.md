@@ -15,7 +15,7 @@
 | Listas simples y doblemente enlazadas | <img src="https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Captura%20de%20pantalla%202025-10-20%20225341.png?raw=true" alt="400.s" width="400" height="800"> | [pila/listasimples](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/pila/listasimples#:~:text=pila-,listasimples,-src/main/java) |
 | Pilas | <img src="https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/pilaviaualgo1.png" alt="Arreglos" width="300">  | https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/pila |
 | Listas.Visualgo | <img src="https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/listavisualgo2.png?raw=true" alt="Arreglos" width="300"> | [pila/listasimples](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/pila/listasimples#:~:text=pila-,listasimples,-src/main/java) |
-| Bubble Sort|   <img src="https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Captura%20de%20pantalla%202025-10-28%20143843.png?raw=true" alt="Arreglos" width="300">| Link Trabajo Visualgo.net= https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Ordenamiento%20por%20intercambio.pdf |
+| Bubble Sort|   <img src="https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Captura%20de%20pantalla%202025-10-28%20143843.png?raw=true" alt="Arreglos" width="300">| Trabajo Visualgo.net= https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/Ordenamiento%20por%20intercambio.pdf |
 
 
 
