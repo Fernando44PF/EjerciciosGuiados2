@@ -60,7 +60,7 @@
 
 | Trabajo | Código | Evidencias|
 |:-------|:-----------:|:-----------|
-| Ejercicio de Colas -java- | [Enlace](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/Estrcturadedatos) |  |
+| Ejercicio de Colas -java- | [Enlace](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/Estrcturadedatos) | https://github.com/Fernando44PF/EjerciciosGuiados2/blob/main/colajava.mp4 |
 | Ejemplo 2 |  |  |
 
 
