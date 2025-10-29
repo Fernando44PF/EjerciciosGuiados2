@@ -24,7 +24,7 @@
 
 | Trabajo | Codigo |
 |:-------|:-----------:|
-| Ejercico De Colas -java- |  |
+| Ejercico De Colas -java- | https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/Estrcturadedatos |
 | Ejemplo 2 |  |
 
 
