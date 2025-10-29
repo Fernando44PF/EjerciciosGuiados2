@@ -58,10 +58,10 @@
 ##Ejercicios Java
 
 
-| Trabajo | Codigo |
-|:-------|:-----------:|
-| Ejercico De Colas -java- | https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/Estrcturadedatos |
-| Ejemplo 2 |  |
+| Trabajo | Código | Evidencias|
+|:-------|:-----------:|:-----------|
+| Ejercicio de Colas -java- | [Enlace](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/Estrcturadedatos) |  |
+| Ejemplo 2 |  |  |
 
 
 
