@@ -70,7 +70,7 @@
 
 | Ejercicio | Descripción | Código |
 |------------|--------------|--------|
-| Ejercicios Practicos de colas | Crear lista enlazada con números aleatorios | [Enlace]() |
+| Ejercicios Practicos de colas | Crear lista enlazada con números aleatorios | [Enlace](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/comparacion_Colas) |
 | Ejercicios Practicos de listas | Recorrer y mostrar la lista | [Enlaze]() |
 | Ejercicios Practicos de pilas | Insertar nodo al inicio | [Enlaze]() |
 
