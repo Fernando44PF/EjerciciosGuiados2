@@ -71,8 +71,8 @@
 | Ejercicio | Descripción | Código |
 |------------|--------------|--------|
 | Ejercicios Practicos de colas | Crear lista enlazada con números aleatorios | [Enlace](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/comparacion_Colas) |
-| Ejercicios Practicos de listas | Recorrer y mostrar la lista | [Enlaze]() |
-| Ejercicios Practicos de pilas | Insertar nodo al inicio | [Enlaze]() |
+| Ejercicios Practicos de listas | Recorrer y mostrar la lista | [Enlaze](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/listass) |
+| Ejercicios Practicos de pilas | Insertar nodo al inicio | [Enlaze](https://github.com/Fernando44PF/EjerciciosGuiados2/tree/main/pilas) |
 
 
 
